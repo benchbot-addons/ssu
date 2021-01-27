@@ -3,5 +3,6 @@ benchbot-addons/envs_isaac_develop
 benchbot-addons/envs_isaac_challenge
 benchbot-addons/robots_isaac
 benchbot-addons/ground_truths_isaac_develop
+benchbot-addons/batches_isaac
 benchbot-addons/eval_omq
 benchbot-addons/examples_ssu

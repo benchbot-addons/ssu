@@ -1,7 +1,7 @@
 benchbot-addons/tasks_ssu
-benchbot-addons/envs_bear_develop_sim_unreal
-benchbot-addons/envs_bear_challenge_sim_unreal
-benchbot-addons/robots_sim_unreal
+benchbot-addons/envs_bear_develop_sim_omni
+benchbot-addons/envs_bear_challenge_sim_omni
+benchbot-addons/robots_sim_omni
 benchbot-addons/ground_truths_bear_develop
 benchbot-addons/ground_truths_bear_challenge
 benchbot-addons/batches_bear

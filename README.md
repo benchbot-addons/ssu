@@ -10,4 +10,4 @@ Use this add-on to add complete support for Semantic Scene Understanding (SSU) t
 - [eval_omq](https://github.com/benchbot-addons/eval_omq)
 - [examples_ssu](https://github.com/benchbot-addons/examples_ssu)
 
-The [ground_truths_bear_challenge](https://github.com/benchbot-addons/ground_truths_bear_challenge) add-on is also available, but not for public use while the [Semantic Scene Understanding Challenge](https://eval.ai/web/challenges/challenge-page/625/overview) is still ongoing.
+The [ground_truths_bear_challenge](https://github.com/benchbot-addons/ground_truths_bear_challenge) add-on is also available, but not for public use while the [Robotic Vision Scene Understanding (RVSU) Challenge](https://eval.ai/web/challenges/challenge-page/1614/overview) is still ongoing.
